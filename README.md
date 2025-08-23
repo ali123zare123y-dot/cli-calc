@@ -37,7 +37,7 @@ def main():
         elif op == "*":
             result = calc.multiply(a, b)
         elif op == "/":
-            result = calc.divide(a, b)
+            result = calc.divide(a, c)
         else:
             print("Unsupported operation.")
             return
