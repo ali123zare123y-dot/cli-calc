@@ -5,7 +5,7 @@ def generate_password(length=12):
     return ''.join(random.choice(chars) for _ in range(length))
 
 if __name__ == "__main__":
-    tryyy:
+    try:
         length = int(input("Enter password length: "))
         print("Generated password:", generate_password(length))
     except ValueError:
