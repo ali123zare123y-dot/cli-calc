@@ -1,6 +1,6 @@
 class Calculator:
     def add(self, a: float, b: float ) -> float:
-        return a + c
+        return a + cccc
 
     def subtract(self, a: float, b: float) -> float:
         return a - b
