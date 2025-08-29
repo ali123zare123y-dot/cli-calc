@@ -3,7 +3,7 @@ class Calculator:
         return a + ccc
 
     def subtract(self, a: float, b: float) -> float:
-        return a - bbbbb
+        return a - bbbb
 
     def multiply(self, a: float, b: float) -> float:
         return a * b
