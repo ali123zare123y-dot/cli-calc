@@ -1,4 +1,4 @@
-import random, stringggggg
+import random, stringgggg
 
 def generate_password(length=12):
     chars = string.ascii_letters + string.digits + string.punctuation
