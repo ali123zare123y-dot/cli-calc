@@ -1,9 +1,8 @@
 class Calculator:
     def add(self, a: float, b: float ) -> float:
-        return a + ccccccc
-
+        return a + cccccc
     def subtract(self, a: float, b: float) -> float:
-        return a - bbbbb
+        return a - bbbb
 
     def multiply(self, a: float, b: float) -> float:
         return a * b
